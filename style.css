@@ -1,0 +1,54 @@
+body{
+
+    margin: 0;
+    
+
+
+
+
+}
+
+h3{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+
+
+
+}
+
+
+    body{
+
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+    cursor: pointer;
+    height: 100px;
+    padding: 100px;
+    background-size: cover;
+    
+    
+    
+
+
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+}
+
